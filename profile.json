@@ -1,0 +1,8 @@
+{
+  "firstName" : "Son",
+  "lastName" : "Goku",
+  "displayHandle" : "SuperSaiyan",
+  "posts" : [ "Frieza sucks", "This is to go even further beyond", "This is an array right?" ],
+  "age" : 40,
+  "active" : true
+}
